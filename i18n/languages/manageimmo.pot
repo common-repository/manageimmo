@@ -1,0 +1,1132 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ManageImmo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-14 12:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.2.2\n"
+"X-Domain: manageimmo"
+
+#: templates/archive-property/pagination.php:15
+#, php-format
+msgid "%s properties being offered."
+msgstr ""
+
+#: templates/archive-saved.php:30
+#, php-format
+msgid "%s properties saved."
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:131
+msgid "Add New Building Type"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:150
+msgid "Add New City"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:46
+msgid "Add New Property"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:169
+msgid "Add New Type"
+msgstr ""
+
+#: templates/single-property/panels/contact-details.php:15
+#: templates/single-property/panels/details.php:24
+msgid "Address"
+msgstr ""
+
+#: templates/archive-property/filters.php:37
+msgid "All building types"
+msgstr ""
+
+#: templates/archive-property/filters.php:48
+msgid "All cities"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:43
+msgid "All Properties"
+msgstr ""
+
+#. Description of the plugin
+msgid "An Immoscout24 API integration for WordPress."
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:201
+#: includes/class-manageimmo-settings.php:293
+msgid "API"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:90
+msgid "Archive slug"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:106
+msgid "ASC"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:108
+msgid "Ascending"
+msgstr ""
+
+#: i18n/type.php:28
+msgid "Assisted Living"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:232
+msgid "Authorize"
+msgstr ""
+
+#: templates/content-property.php:20 templates/archive-property/filters.php:111
+#: templates/single-property/panels/details.php:28
+msgid "Base rent"
+msgstr ""
+
+#: i18n/energy-certificate-creation-date.php:11
+msgid "Before 01 may 2014"
+msgstr ""
+
+#: i18n/energy-source-enev-2014.php:28
+msgid "Bio energy"
+msgstr ""
+
+#: templates/single-property/panels/energy-certificate.php:16
+msgid "Building energy rating type"
+msgstr ""
+
+#: templates/single-property/panels/details.php:19
+msgid "Building type"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:127
+msgid "Building Types"
+msgstr ""
+
+#: i18n/building-type.php:16
+msgid "Bungalow"
+msgstr ""
+
+#: templates/archive-property/filters.php:33
+msgid "Buy"
+msgstr ""
+
+#: templates/archive-property/filters.php:22
+msgid "Buy and rent"
+msgstr ""
+
+#: i18n/type.php:12
+msgid "Buy Apartment"
+msgstr ""
+
+#: i18n/type.php:18
+msgid "Buy Garage"
+msgstr ""
+
+#: i18n/type.php:14
+msgid "Buy House"
+msgstr ""
+
+#: i18n/type.php:16
+msgid "Buy LivingSite"
+msgstr ""
+
+#: templates/content-property.php:21
+#: templates/single-property/panels/details.php:33
+msgid "Calculated total rent"
+msgstr ""
+
+#: templates/single-property/panels/contact-form.php:91
+msgid "cancellation policy"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:130
+msgid "Cancellation Policy Page"
+msgstr ""
+
+#: i18n/building-type.php:20
+msgid "Castle manor house"
+msgstr ""
+
+#: templates/single-property/panels/characteristics.php:12
+msgid "Cellar"
+msgstr ""
+
+#: templates/single-property/panels/energy-certificate.php:23
+msgid "Certificate class"
+msgstr ""
+
+#: templates/energy-certificates/before-2014.php:84
+#: templates/single-property/panels/energy-certificate.php:20
+msgctxt "certificate energy consumption"
+msgid "Energy consumption"
+msgstr ""
+
+#: templates/single-property/panels/characteristics.php:21
+msgid "Characteristics"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:133
+msgid "Choose from the most used building types"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:152
+msgid "Choose from the most used cities"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:171
+msgid "Choose from the most used types"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:146
+msgid "Cities"
+msgstr ""
+
+#: templates/single-property/panels/contact-form.php:69
+msgid "City"
+msgstr ""
+
+#: i18n/energy-source-enev-2014.php:18
+msgid "Coal"
+msgstr ""
+
+#: i18n/energy-source-enev-2014.php:25
+msgid "Coal coke"
+msgstr ""
+
+#: i18n/energy-source-enev-2014.php:35
+msgid "Combined heat and power bio energy"
+msgstr ""
+
+#: i18n/energy-source-enev-2014.php:32
+msgid "Combined heat and power fossil fuels"
+msgstr ""
+
+#: i18n/energy-source-enev-2014.php:34
+msgid "Combined heat and power regenerative energy"
+msgstr ""
+
+#: i18n/energy-source-enev-2014.php:33
+msgid "Combined heat and power renewable energy"
+msgstr ""
+
+#: templates/single-property/panels/contact-details.php:14
+msgid "Company"
+msgstr ""
+
+#: i18n/type.php:27
+msgid "Compulsory Auction"
+msgstr ""
+
+#: templates/single-property/panels/details.php:32
+msgid "Condition"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:240
+msgid "Connect"
+msgstr ""
+
+#: templates/single-property/panels/details.php:26
+msgid "Construction year"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:215
+msgid "Consumer Key"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:221
+msgid "Consumer Secret"
+msgstr ""
+
+#: templates/single-property/panels/energy-certificate.php:22
+msgid "Consumption contains warm water"
+msgstr ""
+
+#: templates/single-property.php:36
+msgid "Contact"
+msgstr ""
+
+#: templates/single-property/panels/contact-details.php:23
+msgid "Contact details"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:126
+msgid "Contact Form"
+msgstr ""
+
+#: templates/single-property/panels/contact-form.php:21
+msgid "Contact form"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:252
+#: includes/class-manageimmo-settings.php:274
+msgid "Create/Update"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:255
+msgid "Create/Update all ImmoScout24 properties"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:277
+msgid "Create/Update all OpenImmo properties"
+msgstr ""
+
+#: templates/single-property/panels/energy-certificate.php:17
+msgid "Creation date"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:109
+msgid "Descending"
+msgstr ""
+
+#: templates/single-property/panels/description-note.php:13
+msgid "Description"
+msgstr ""
+
+#: templates/content-property.php:54
+msgid "Details"
+msgstr ""
+
+#: i18n/energy-source-enev-2014.php:16
+msgid "District heating"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:129
+msgid "Edit Building Type"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:148
+msgid "Edit City"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:45
+msgid "Edit Property"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:167
+msgid "Edit Type"
+msgstr ""
+
+#: i18n/energy-source-enev-2014.php:17
+msgid "Electricity"
+msgstr ""
+
+#: templates/single-property/panels/contact-details.php:16
+msgid "Email"
+msgstr ""
+
+#: i18n/building-type.php:14
+msgid "End terrace house"
+msgstr ""
+
+#: templates/single-property/panels/energy-certificate.php:29
+msgid "Energy certificate"
+msgstr ""
+
+#: i18n/building-energy-rating-type.php:13
+msgid "Energy consumption"
+msgstr ""
+
+#: templates/energy-certificates/from-2014.php:160
+msgid "Energy demand"
+msgstr ""
+
+#: i18n/building-energy-rating-type.php:12
+msgid "Energy required"
+msgstr ""
+
+#: templates/single-property/panels/energy-certificate.php:19
+msgid "Energy source"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:205
+msgid "Environment"
+msgstr ""
+
+#: i18n/energy-source-enev-2014.php:31
+msgid "Environmental thermal energy"
+msgstr ""
+
+#: templates/content-property.php:15
+#: templates/single-property/panels/details.php:18
+msgid "External ID"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:142
+msgid "Fallback shortcode"
+msgstr ""
+
+#: i18n/building-type.php:17
+msgid "Farmhouse"
+msgstr ""
+
+#: templates/single-property/panels/contact-form.php:40
+msgid "First name"
+msgstr ""
+
+#: i18n/condition.php:12
+msgid "First time use"
+msgstr ""
+
+#: i18n/condition.php:13
+msgid "First time use after refurbishment"
+msgstr ""
+
+#: i18n/type.php:25
+msgid "Flat Share Room"
+msgstr ""
+
+#: i18n/energy-certificate-creation-date.php:12
+msgid "From 01 may 2014"
+msgstr ""
+
+#: i18n/condition.php:17
+msgid "Fully renovated"
+msgstr ""
+
+#: i18n/energy-source-enev-2014.php:14
+msgid "Gas"
+msgstr ""
+
+#: i18n/type.php:21
+msgid "Gastronomy"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:67
+#: includes/class-manageimmo-settings.php:270
+msgid "General"
+msgstr ""
+
+#: i18n/energy-source-enev-2014.php:12
+msgid "Geothermal"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:54
+msgid "Google"
+msgstr ""
+
+#: templates/single-property/panels/characteristics.php:14
+msgid "Guest toilet"
+msgstr ""
+
+#: templates/single-property/panels/characteristics.php:13
+msgid "Handicapped accessible"
+msgstr ""
+
+#: i18n/energy-source-enev-2014.php:27
+msgid "Heat supply"
+msgstr ""
+
+#: templates/single-property/panels/details.php:31
+msgid "Heating costs"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:77
+msgid "Hide media library attachments"
+msgstr ""
+
+#: i18n/type.php:26
+msgid "House Type"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://manageimmo.de/"
+msgstr ""
+
+#: i18n/energy-source-enev-2014.php:30
+msgid "Hydro energy"
+msgstr ""
+
+#: templates/single-property/panels/contact-form.php:101
+#, php-format
+msgid ""
+"I consent to the processing of my data for the purpose of handling my "
+"request and I have read the %s"
+msgstr ""
+
+#: templates/single-property/panels/contact-form.php:87
+#, php-format
+msgid "I have read and accepted the %s"
+msgstr ""
+
+#: templates/single-property/panels/contact-form.php:80
+msgid "If you are interested please contact us."
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:46
+msgid "ImmoScout24"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:227
+msgid "Import References?"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:284
+msgid ""
+"IMPORTANT! In order for the OpenImmo intergration to work files must be put "
+"in the /wp-content/uploads/openimmo directory."
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:94
+#, php-format
+msgid ""
+"IMPORTANT: after changing the slug you should resave the permalinks by going "
+"to %s."
+msgstr ""
+
+#: i18n/type.php:22
+msgid "Industry"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:217
+#: includes/class-manageimmo-settings.php:223
+msgid "Instructions"
+msgstr ""
+
+#: i18n/type.php:24
+msgid "Investment"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:297
+#: includes/class-manageimmo-settings.php:314
+msgid "Key"
+msgstr ""
+
+#: templates/single-property/panels/contact-form.php:44
+msgid "Last name"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:302
+msgid "Learn how"
+msgstr ""
+
+#: templates/single-property/panels/energy-certificate.php:18
+msgid "Legal construction year"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:310
+msgid "License"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:58
+msgid "Licensing"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:192
+msgid "Link text color"
+msgstr ""
+
+#: i18n/energy-source-enev-2014.php:21
+msgid "Liquid gas"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:209
+msgid "Live"
+msgstr ""
+
+#: templates/content-property.php:17 templates/archive-property/filters.php:97
+#: templates/single-property/panels/details.php:21
+msgid "Living space"
+msgstr ""
+
+#: i18n/energy-source-enev-2014.php:26
+msgid "Local heating"
+msgstr ""
+
+#: templates/single-property/panels/location-note.php:13
+msgid "Location"
+msgstr ""
+
+#: templates/single-property/panels/characteristics.php:11
+msgid "Lodger flat"
+msgstr ""
+
+#. Name of the plugin
+#: includes/class-manageimmo-settings.php:42
+#: includes/admin/class-manageimmo-admin-menus.php:33
+#: includes/admin/class-manageimmo-admin-menus.php:33
+msgid "ManageImmo"
+msgstr ""
+
+#. Author of the plugin
+msgid "Manageimmo"
+msgstr ""
+
+#: includes/admin/class-manageimmo-admin-menus.php:47
+msgid "ManageImmo Settings"
+msgstr ""
+
+#: i18n/building-type.php:13
+msgid "Mid terrace house"
+msgstr ""
+
+#: i18n/condition.php:14
+msgid "Mint condition"
+msgstr ""
+
+#: i18n/condition.php:16 i18n/condition.php:22
+msgid "Modernized"
+msgstr ""
+
+#: templates/archive-property/filters.php:83
+msgid "More filters"
+msgstr ""
+
+#: templates/single-property/panels/contact-form.php:34
+msgid "Mr."
+msgstr ""
+
+#: templates/single-property/panels/contact-form.php:35
+msgid "Mrs."
+msgstr ""
+
+#: i18n/building-type.php:15
+msgid "Multi family house"
+msgstr ""
+
+#: templates/single-property/panels/contact-details.php:13
+msgid "Name"
+msgstr ""
+
+#: i18n/energy-source-enev-2014.php:20
+msgid "Natural gas heavy"
+msgstr ""
+
+#: i18n/energy-source-enev-2014.php:19
+msgid "Natural gas light"
+msgstr ""
+
+#: i18n/condition.php:19
+msgid "Need of renovation"
+msgstr ""
+
+#: i18n/condition.php:20
+msgid "Negotiable"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:134
+msgid "No building types found"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:153
+msgid "No cities found"
+msgstr ""
+
+#: i18n/building-energy-rating-type.php:11 i18n/building-type.php:11
+#: i18n/condition.php:11 i18n/energy-source-enev-2014.php:11
+msgid "No information"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:47
+msgid "No properties found"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:48
+msgid "No properties found in trash"
+msgstr ""
+
+#: templates/archive-property-shortcode.php:35
+#: templates/archive-property.php:29
+msgid "No properties found that match your criteria."
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:172
+msgid "No types found"
+msgstr ""
+
+#: templates/single-property/panels/contact-form.php:61
+msgid "Nr."
+msgstr ""
+
+#: templates/single-property/panels/details.php:25
+msgid "Number of floors"
+msgstr ""
+
+#: templates/single-property/panels/details.php:27
+msgid "Number of parking spaces"
+msgstr ""
+
+#: i18n/type.php:19
+msgid "Office"
+msgstr ""
+
+#: i18n/energy-source-enev-2014.php:15
+msgid "Oil"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:50
+msgid "OpenImmo"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:104
+msgid "Order"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:114
+msgid "Order by"
+msgstr ""
+
+#: i18n/building-type.php:22
+msgid "Other real estate"
+msgstr ""
+
+#: templates/single-property/panels/contact-details.php:17
+msgid "Phone number"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:247
+msgid "Please save your changes before trying to connect."
+msgstr ""
+
+#: includes/class-manageimmo-frontend-scripts.php:84
+msgid "Please try again later."
+msgstr ""
+
+#: templates/content-property.php:18
+#: templates/single-property/panels/details.php:22
+msgid "Plot area"
+msgstr ""
+
+#: templates/single-property/panels/contact-form.php:65
+msgid "Postcode"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:118 templates/content-property.php:22
+#: templates/archive-property/filters.php:118
+#: templates/single-property/panels/details.php:34
+msgid "Price"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:116
+msgid "price"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:155
+msgid "Primary button background color"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:161
+msgid "Primary button border color"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:167
+msgid "Primary button text color"
+msgstr ""
+
+#: templates/single-property/panels/contact-form.php:102
+msgid "privacy policy"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:136
+msgid "Privacy Policy Page"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:41
+#: includes/class-manageimmo-settings.php:86
+#: templates/archive-property-shortcode.php:22
+#: templates/archive-property.php:16
+msgid "Properties"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:92
+msgid "properties"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:42
+msgid "Property"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:53
+msgid "property"
+msgstr ""
+
+#: includes/admin/class-manageimmo-admin-meta-boxes.php:46
+msgid "Property data"
+msgstr ""
+
+#: templates/single-property/panels/details.php:40
+msgid "Property details"
+msgstr ""
+
+#: includes/admin/class-manageimmo-admin-menus.php:34
+msgid "Property types"
+msgstr ""
+
+#: includes/admin/class-manageimmo-admin-post-types.php:38
+msgid "Property updated."
+msgstr ""
+
+#: templates/archive-property/filters.php:61
+msgid "Proximity search (E.g. city, postcode, street, etc.)"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-property-data.php:17
+msgid "Published"
+msgstr ""
+
+#: templates/archive-property-shortcode.php:43
+#: templates/archive-property.php:37 templates/archive-saved.php:44
+#: templates/single-property.php:62
+msgid "Real estate data imported by: Manageimmo"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:100
+#: includes/manageimmo-property-functions.php:238
+msgid "Reference"
+msgstr ""
+
+#: includes/admin/meta-boxes/views/html-property-data.php:21
+msgid "reference"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:105
+#, php-format
+msgid "Reference <span class=\"count\">(%s)</span>"
+msgid_plural "Reference <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: i18n/condition.php:15
+msgid "Refurbished"
+msgstr ""
+
+#: templates/archive-property/filters.php:27
+msgid "Rent"
+msgstr ""
+
+#: i18n/type.php:11
+msgid "Rent Apartment"
+msgstr ""
+
+#: i18n/type.php:17
+msgid "Rent Garage"
+msgstr ""
+
+#: i18n/type.php:13
+msgid "Rent House"
+msgstr ""
+
+#: i18n/type.php:15
+msgid "Rent Living Site"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:84
+#: includes/manageimmo-property-functions.php:236
+#: includes/admin/meta-boxes/views/html-property-data.php:19
+msgid "Rented"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:89
+#, php-format
+msgid "Rented <span class=\"count\">(%s)</span>"
+msgid_plural "Rented <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-manageimmo-post-types.php:92
+#: includes/manageimmo-property-functions.php:237
+#: includes/admin/meta-boxes/views/html-property-data.php:20
+msgid "Reserved"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:97
+#, php-format
+msgid "Reserved <span class=\"count\">(%s)</span>"
+msgid_plural "Reserved <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/archive-property/filters.php:89
+msgid "Reset"
+msgstr ""
+
+#: i18n/condition.php:21
+msgid "Ripe for demolition"
+msgstr ""
+
+#: templates/content-property.php:16 templates/archive-property/filters.php:104
+#: templates/single-property/panels/details.php:20
+msgid "Rooms"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:208
+msgid "Sandbox"
+msgstr ""
+
+#: templates/content-property.php:58 templates/single-property.php:32
+msgid "Save"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:238
+msgid "Save changes"
+msgstr ""
+
+#: templates/archive-saved.php:22 templates/archive-property/filters.php:87
+msgid "Saved"
+msgstr ""
+
+#: templates/archive-property/filters.php:79
+msgid "Search"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:128
+msgid "Search Building Types"
+msgstr ""
+
+#: templates/archive-property/filters.php:92
+msgid "Search by external ID"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:147
+msgid "Search Cities"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:44
+msgid "Search Properties"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:166
+msgid "Search Types"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:174
+msgid "Secondary button background color"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:180
+msgid "Secondary button border color"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:186
+msgid "Secondary button text color"
+msgstr ""
+
+#: i18n/building-type.php:18
+msgid "Semidetached house"
+msgstr ""
+
+#: i18n/type.php:29
+msgid "Senior Care"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:132
+msgid "Separate building types with commas"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:151
+msgid "Separate cities with commas"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:170
+msgid "Separate types with commas"
+msgstr ""
+
+#: templates/single-property/panels/details.php:30
+msgid "Service charge"
+msgstr ""
+
+#: includes/admin/class-manageimmo-admin-menus.php:48
+msgid "Settings"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:98
+msgid "Settings > Reading > Save changes"
+msgstr ""
+
+#: i18n/type.php:30
+msgid "Short Term Accommodation"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:71
+msgid "Show credits"
+msgstr ""
+
+#: i18n/building-type.php:12
+msgid "Single family house"
+msgstr ""
+
+#: i18n/energy-source-enev-2014.php:13
+msgid "Solar heating"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:76
+#: includes/manageimmo-property-functions.php:235
+#: includes/admin/meta-boxes/views/html-property-data.php:18
+msgid "Sold"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:81
+#, php-format
+msgid "Sold <span class=\"count\">(%s)</span>"
+msgid_plural "Sold <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-manageimmo-frontend-scripts.php:83
+msgid "Something went wrong"
+msgstr ""
+
+#: i18n/type.php:23
+msgid "Special Purpose"
+msgstr ""
+
+#: i18n/building-type.php:21
+msgid "Special real estate"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:320
+#: includes/admin/meta-boxes/views/html-property-data.php:14
+msgid "Status"
+msgstr ""
+
+#: i18n/energy-source-enev-2014.php:22
+msgid "Steam district heating"
+msgstr ""
+
+#: i18n/type.php:20
+msgid "Store"
+msgstr ""
+
+#: templates/single-property/panels/contact-form.php:57
+msgid "Street"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:151
+msgid "Styling"
+msgstr ""
+
+#: templates/single-property/panels/contact-form.php:107
+msgid "Submit"
+msgstr ""
+
+#: templates/single-property/panels/characteristics.php:15
+msgid "Summer residence practical"
+msgstr ""
+
+#: templates/single-property/panels/energy-certificate.php:21
+msgid "Thermal characteristic"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:259
+#, php-format
+msgid "This already happens automatically once a day. Next time: %s"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:281
+#, php-format
+msgid "This already happens automatically once an hour. Next time: %s"
+msgstr ""
+
+#: includes/class-manageimmo-frontend-scripts.php:85
+#: templates/single-property/panels/contact-form.php:10
+msgid "This field is required"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:301
+#, php-format
+msgid ""
+"This key is needed to search by location. The Geocoding API must be enabled. "
+"%s"
+msgstr ""
+
+#: includes/class-manageimmo-settings.php:144
+msgid ""
+"This shortcode will be displayed if the property is not imported via "
+"ImmoScout24."
+msgstr ""
+
+#: templates/single-property/panels/contact-details.php:40
+msgid "To contact form"
+msgstr ""
+
+#: includes/admin/class-manageimmo-admin.php:51
+msgid "To import more than 5 properties you must have an active license."
+msgstr ""
+
+#: templates/archive-saved.php:26 templates/single-property.php:28
+msgid "To overview"
+msgstr ""
+
+#: templates/single-property/panels/details.php:29
+msgid "Total rent"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:165
+#: includes/admin/class-manageimmo-admin-menus.php:34
+msgid "Types"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:130
+msgid "Update Building Type"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:149
+msgid "Update City"
+msgstr ""
+
+#: includes/class-manageimmo-post-types.php:168
+msgid "Update Type"
+msgstr ""
+
+#: templates/content-property.php:19
+#: templates/single-property/panels/details.php:23
+msgid "Usable floor space"
+msgstr ""
+
+#: i18n/building-type.php:19
+msgid "Villa"
+msgstr ""
+
+#: includes/class-manageimmo-frontend-scripts.php:82
+msgid "We will contact you as soon as possible."
+msgstr ""
+
+#: i18n/condition.php:18
+msgid "Well kept"
+msgstr ""
+
+#: i18n/energy-source-enev-2014.php:29
+msgid "Wind energy"
+msgstr ""
+
+#: i18n/energy-source-enev-2014.php:23
+msgid "Wood"
+msgstr ""
+
+#: i18n/energy-source-enev-2014.php:24
+msgid "Wood chips"
+msgstr ""
+
+#: templates/single-property/panels/contact-form.php:54
+msgid "Your address"
+msgstr ""
+
+#: templates/single-property/panels/contact-form.php:49
+msgid "Your email"
+msgstr ""
+
+#: templates/single-property/panels/contact-form.php:79
+msgid "Your message"
+msgstr ""
+
+#: includes/class-manageimmo-frontend-scripts.php:81
+msgid "Your message has been received"
+msgstr ""
+
+#: templates/single-property/panels/contact-form.php:30
+msgid "Your name"
+msgstr ""
+
+#: templates/single-property/panels/contact-form.php:74
+msgid "Your phone number"
+msgstr ""

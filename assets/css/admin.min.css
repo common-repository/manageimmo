@@ -1,0 +1,1 @@
+.status-connected,.status-success{color:green}.status-failed,.status-unconnected{color:red}.status-connected:first-letter,.status-failed:first-letter,.status-success:first-letter,.status-unconnected:first-letter{text-transform:capitalize}
